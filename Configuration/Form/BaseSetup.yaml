@@ -1,0 +1,8 @@
+prototypes:
+  standard:
+    formEditor:
+      dynamicJavaScriptModules:
+        additionalViewModelModules:
+          1729578876: '@remind/form-inspector-editors/backend/form-editor/view-model.js'
+      formEditorPartials:
+        Inspector-FormElementsMultiSelectEditor: 'Inspector/MultiSelectEditor'

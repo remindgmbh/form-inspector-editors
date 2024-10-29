@@ -1,0 +1,15 @@
+plugin.tx_form {
+    settings {
+        yamlConfigurations {
+            1730203810 = EXT:rmnd_form_inspector_editors/Configuration/Form/BaseSetup.yaml
+        }
+    }
+}
+
+module.tx_form {
+    settings {
+        yamlConfigurations {
+            1730203810 = EXT:rmnd_form_inspector_editors/Configuration/Form/BaseSetup.yaml
+        }
+    }
+}
